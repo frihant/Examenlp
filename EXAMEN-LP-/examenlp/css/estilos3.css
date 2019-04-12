@@ -1,0 +1,75 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body {
+   
+
+
+}
+#todo{
+    background: white;
+    margin-left: 300px;
+    width:800px;
+    height: 600px;
+    margin-top: 40px;
+   
+}
+#titulo{
+    width: 600px;
+    height: 110px;
+}
+#contenedor{
+  
+    margin-top: 50px;
+    width: 800px;
+    margin: auto;
+     background-image: url("imagenes/RL.jpg");
+
+
+}
+header nav{
+    text-align: center;
+    background-color:rgb(46, 85, 194) ;
+    
+
+
+}
+header nav ul li{
+    display: inline-block;
+    padding: 10px
+}
+header nav ul li{
+    text-decoration: none;
+    font-family: fantasy;
+    font-size: 20px;
+    color: black;
+    font-weight: bold;
+}
+header nav ul li a:hover{
+    color: white;
+}
+#lista{
+    width: 700px;
+    background: rgb(155, 155, 155);
+    border-radius: 5px;
+    border: 3px solid rgb(171, 172, 172);
+    margin-top: 50px;
+    margin-left: 40px;
+}
+#lista2{
+    width: 700px;
+    background: rgb(245, 245, 245);
+    border-radius: 5px;
+    border: 3px solid rgb(243, 243, 243);
+    margin-top: 10px;
+    margin-left: 50px;
+}
+#lista3{
+    margin-top: 800px;
+    margin-left: 12px;
+}
+
+#titclientes{
+    max-width: 45px;
+}

@@ -1,0 +1,51 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+   
+
+
+}
+#todo{
+    background: white;
+    margin-left: 300px;
+    width:800px;
+    height: 600px;
+    margin-top: 40px;
+   
+}
+#titulo{
+    width: 600px;
+    height: 110px;
+}
+#contenedor{
+  
+    margin-top: 50px;
+    width: 800px;
+    margin: auto;
+     background-image: url("imagenes/RL.jpg");
+
+
+}
+header nav{
+    text-align: center;
+    background-color:rgb(46, 85, 194) ;
+    
+
+
+}
+header nav ul li{
+    display: inline-block;
+    padding: 10px
+}
+header nav ul li{
+    text-decoration: none;
+    font-family: fantasy;
+    font-size: 20px;
+    color: black;
+    font-weight: bold;
+}
+header nav ul li a:hover{
+    color: white;
+}
